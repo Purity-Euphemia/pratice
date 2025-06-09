@@ -5,7 +5,7 @@ public static int[] MaxiAndMinOfSumClassWork(int[] number) {
 	int MinNumber = number[0];
 	int sum = 0;
 
-for(int count = 0; cunt < number.lenght count++){
+for(int count = 0; cunt < number.lenght; count++){
 	if(number[count] > MaxiNumber){
 	MaxiNumber = number[count];
 }
