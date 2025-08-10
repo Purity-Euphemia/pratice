@@ -8,7 +8,7 @@ public class Task10 {
 
         System.out.println("Enter 10 scores:");
 
-        for (int count = 1; count <= 10; count++) {
+        for (count = 1; count <= 10; count++) {
             System.out.print("Score " + count + ": ");
             int score = input.nextInt();
 
