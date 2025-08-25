@@ -1,5 +1,3 @@
-import java.util.Arrays;
-
 public class sumOddFunction{
 	public static int oddNumber(int[] Array){
 	int[] odd = new int[Array.length];
